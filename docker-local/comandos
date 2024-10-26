@@ -1,0 +1,3 @@
+- docker ps
+- docker exec -it [container id] /bin/bash
+- mongosh -u root -p
