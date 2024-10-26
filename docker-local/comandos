@@ -1,3 +1,4 @@
 - docker ps
 - docker exec -it [container id] /bin/bash
 - mongosh -u root -p
+- java -jar wiremock-jre8-standalone-2.35.0.jar --port 8082
